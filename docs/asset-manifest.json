@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec41a145.chunk.css",
+    "main.js": "/static/js/main.0a27f994.chunk.js",
+    "main.js.map": "/static/js/main.0a27f994.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.84beb718.js",
+    "runtime-main.js.map": "/static/js/runtime-main.84beb718.js.map",
+    "static/js/2.a5f160f5.chunk.js": "/static/js/2.a5f160f5.chunk.js",
+    "static/js/2.a5f160f5.chunk.js.map": "/static/js/2.a5f160f5.chunk.js.map",
+    "static/js/3.b7a07dcd.chunk.js": "/static/js/3.b7a07dcd.chunk.js",
+    "static/js/3.b7a07dcd.chunk.js.map": "/static/js/3.b7a07dcd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ec41a145.chunk.css.map": "/static/css/main.ec41a145.chunk.css.map",
+    "static/js/2.a5f160f5.chunk.js.LICENSE.txt": "/static/js/2.a5f160f5.chunk.js.LICENSE.txt",
+    "static/media/flask_icon.2d927f4b.png": "/static/media/flask_icon.2d927f4b.png",
+    "static/media/js_icon.06db8995.png": "/static/media/js_icon.06db8995.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84beb718.js",
+    "static/js/2.a5f160f5.chunk.js",
+    "static/css/main.ec41a145.chunk.css",
+    "static/js/main.0a27f994.chunk.js"
+  ]
+}
